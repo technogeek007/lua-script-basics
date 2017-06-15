@@ -7,3 +7,4 @@ HighScore = { 5,6,2,1,8}
 for k,v in ipairs(HighScore) do
     print(k,v)
 end
+print("Hello again...just testing")
